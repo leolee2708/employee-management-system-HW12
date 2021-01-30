@@ -8,7 +8,7 @@
   * [License](#license)
   * [Test](#test)
   * [Questions](#questions)
-  * [DEMO]
+  * [DEMO](#demo)
   ## Description
   Using npm inquirer, local database, inquirer and chalk, I created a simple app to manage employees datas.
   
